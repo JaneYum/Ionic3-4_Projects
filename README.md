@@ -1,7 +1,7 @@
 # Ionic3-4_Projects
 Dairy App, Check List App, Emotion Journal
 
-## Project one: Ionic_checklist
+## Project 1️⃣: Ionic_checklist
 create checklist app with Data Model, Observables and Services
 ### Part A (Basic Functionality): Master and Detail pages for Checklists
 For the basic functionality of the QuickList App, you will create an app that allows a user to create, rename, and delete Checklists (via the Master page) and, by selecting a Checklist and navigating to the Detail page, to create, rename, and delete Checklist Items.
