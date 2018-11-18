@@ -3,7 +3,7 @@ Dairy App, Check List App, Emotion Journal
 
 ## Project one: Ionic_checklist
 create checklist app with Data Model, Observables and Services
-## Part A (Basic Functionality): Master and Detail pages for Checklists
+### Part A (Basic Functionality): Master and Detail pages for Checklists
 For the basic functionality of the QuickList App, you will create an app that allows a user to create, rename, and delete Checklists (via the Master page) and, by selecting a Checklist and navigating to the Detail page, to create, rename, and delete Checklist Items.
 
 Check out the to see an example of the basic functionality that your app will need to support. Note that your app does not need to look exactly like this, but should support the same functionality:
@@ -21,7 +21,7 @@ Specifically, to get full credit for this section, you need to show that your ap
 * Use (an) Observable(s) to ensure that your View code (e.g., Master and Detail pages) can get data from the Service, even if there is a delay in retrieval
 * Use Angular routing with parameter passing to allow the Master to communicate information about the selected Checklist to the Detail page
 
-## Part B (Enhanced Functionality): Adding Features to Checklists and Checklist Items
+### Part B (Enhanced Functionality): Adding Features to Checklists and Checklist Items
 Next, you will add additional functionality to your app. This part of the assignment will require a bit more thought and probably a bit of research to figure out how to use UI components and Ionic/Angular features that we haven’t explicitly covered in class (e.g., how to sort a list).
 
 Specifically, to get full credit for this section, you need to show that your app can allow users to:
