@@ -1,0 +1,7 @@
+{
+  "name": "si669-week10-firebase",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
