@@ -33,3 +33,7 @@ Specifically, to get full credit for this section, you need to show that your ap
 * For each list, show the total number of items in the list and the number of “remaining” (i.e., not “completed” items*
 * Sort the Checklist Master list by the number of remaining items (most to least)*
 * For each of the above, show that the modifications and sort/view options are persisted both within an App session and between App sessions (i.e., after re-launch)
+
+
+## Project 2️⃣: Diary App with Photos
+
