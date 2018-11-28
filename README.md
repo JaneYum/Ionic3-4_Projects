@@ -37,3 +37,9 @@ Specifically, to get full credit for this section, you need to show that your ap
 
 ## Project 2️⃣: Diary App with Photos
 
+* Two important structure needed to clarify before starting.
+  * Data Model
+  * Pages 
+    * Features - data CURD (User Input)
+    * Features - css
+    
